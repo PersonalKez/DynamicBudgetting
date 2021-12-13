@@ -2,3 +2,6 @@ The Purpose of the program is to predict grocery/tax/rent over time and then pro
 advice on creating a dynamic budget. The project uses Java to scrape data
 and predict based on this. A UI will later be added using React.
 
+Screen recordings will be captured using Windows 10 Game Bar for tutorial purposes.
+
+Selenium & JSoup will be used for web scraping to extract data. 
